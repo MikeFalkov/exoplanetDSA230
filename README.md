@@ -1,3 +1,13 @@
+### **Install/Setup Project**
+
+`git clone https://github.com/MikeFalkov/exoplanetDSA230.git`
+
+`cd exoplanetDSA230`
+
+`uv sync`
+
+---
+
 **Lux Observation Dataset**
 - https://www.kaggle.com/datasets/keplersmachines/kepler-labelled-time-series-data?resource=download
 
