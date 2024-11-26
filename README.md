@@ -1,3 +1,9 @@
+# TODO:
+- [ ] RNN
+- [ ] Logistic Regression
+- [ ] Time Series
+- [ ] Tensorflow
+
 
 # Exoplanet DSA-230
 
