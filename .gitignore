@@ -9,7 +9,7 @@ wheels/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Virtual environments
+# Virtual Environments
 .venv/
 venv/
 
@@ -18,3 +18,7 @@ venv/
 
 # Large files
 *.csv
+
+# Env Vars
+.env
+.kaggle
