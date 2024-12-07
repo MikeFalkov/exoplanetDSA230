@@ -1,15 +1,15 @@
 # Exoplanet DSA-230
 
 ## Authors:
-- Carver Ossoff
-- Foster Cirino
+- [Carver Ossoff](https://github.com/carveross)
+- [Foster Cirino](https://github.com/Badkad)
 - Michael Falkov
 
 ## Install & Setup
  
-#### Prerequisite
-- [**uv**](https://github.com/astral-sh/uv) ~ *"An extremely fast Python package and project manager, written in Rust"*   
-[Official Docs](https://docs.astral.sh/uv/) & [Install Guide](https://docs.astral.sh/uv/getting-started/installation/)
+- #### Prerequisite
+  - [**uv**](https://github.com/astral-sh/uv) ~ *"An extremely fast Python package and project manager, written in Rust."*   
+  [Official Docs](https://docs.astral.sh/uv/) & [Install Guide](https://docs.astral.sh/uv/getting-started/installation/)
 
 1. Clone the repository:
    ```bash
