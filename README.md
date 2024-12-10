@@ -3,7 +3,7 @@
 ## Authors:
 - [Carver Ossoff](https://github.com/carveross)
 - [Foster Cirino](https://github.com/Badkad)
-- Michael Falkov
+- [Michael Falkov](https://github.com/MikeFalkov)
 
 ## Install & Setup
  
